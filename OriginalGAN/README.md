@@ -1,5 +1,5 @@
 # OriginalGAN
-This code is about implementation of paper [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Tensorflow.
+Implementation of paper [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Tensorflow.
 
 ## Requirements
  - [Tensorflow](http://www.tensorflow.org)
