@@ -13,6 +13,9 @@
 # limitations under the License.
 # ==============================================================================
 
+#파일 원본: https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/tutorials/mnist/input_data.py 
+#문제가 되면 삭제하겠습니다.
+
 """Functions for downloading and reading MNIST data."""
 from __future__ import absolute_import
 from __future__ import division
