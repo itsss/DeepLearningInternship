@@ -9,6 +9,7 @@ Implementation of paper [Unsupervised Representation Learning with Deep Convolut
 
 ## Train and Test
 **Usage**: `python dcgan.py`
+
 **Result File**: PDF File(`result_(num_steps) steps.pdf`, ex: result_20000 steps.pdf) will be created when the training process finished. (Default `num_steps`: 20000)
 
 ![result image](dcgan_result/result.png)
